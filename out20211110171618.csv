@@ -1,0 +1,584 @@
+﻿,사용자발화,엔진결과_module,엔진결과_intent_id,엔진결과_intent_title
+0,신고 어떻게 해?,DialogAdapter,IT-0020,신고 안내
+1,상담시작,DialogAdapter,IT-0017,챗봇상담시작
+2,상담하자,DialogAdapter,IT-0017,챗봇상담시작
+3,반가워!!,DialogAdapter,IT-0018,환영인사
+4,잘가.,DialogAdapter,IT-0019,종료인사
+5,신고 하는 방법,DialogAdapter,IT1620715040970001,비긴급 신고
+6,신고하는법,DialogAdapter,IT-0020,신고 안내
+7,주차위반 신고,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+8,주차위반,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+9,안전신문고 소개해줘,DialogAdapter,IT1624933997476001,앱 실행
+10,신문고 소개해줘,DailyDialogAdapter,IT1603702611549001,소개팅
+11,신문고 소개,FallbackAdapter,IT-FALLBACK,폴백 메시지
+12,신고 처리 사례,DialogAdapter,IT-0025,주요처리사례 보기
+13,신고 사례,DialogAdapter,IT-0025,주요처리사례 보기
+14,코로나 설명,DialogAdapter,IT-0029,코로나19
+15,코로나 설명해줘,DialogAdapter,IT1607321122687001,코로나19 신고 유형 안내
+16,코로나 예방 수칙 안내,DialogAdapter,IT-0031,코로나 예방 수칙 안내
+17,안전수칙,DialogAdapter,IT-0034,국민안전행동요령
+18,안전수칙 알려줘,DialogAdapter,IT-0034,국민안전행동요령
+19,안전수칙 요령,DialogAdapter,IT-0034,국민안전행동요령
+20,자연재난시 대처법,DialogAdapter,IT-0035,자연재난 국민안전행동요령
+21,자연재난 대처법,DialogAdapter,IT-0138,재난대비 국민안전행동요령
+22,호우ㆍ태풍 대처법,DialogAdapter,IT-0036,태풍 호우 국민안전행동요령
+23,호우ㆍ태풍시 대처법,DialogAdapter,IT-0036,태풍 호우 국민안전행동요령
+24,번개,DialogAdapter,IT-0037,낙뢰 국민안전행동요령
+25,천둥,DialogAdapter,IT-0037,낙뢰 국민안전행동요령
+26,천둥번개,DialogAdapter,IT-0037,낙뢰 국민안전행동요령
+27,폭염,DialogAdapter,IT-0038,폭염 국민안전행동요령
+28,무더위,DialogAdapter,IT-0038,폭염 국민안전행동요령
+29,가뭄,DialogAdapter,IT-0039,가뭄 국민안전행동요령
+30,가뭄에 대해,DialogAdapter,IT-0039,가뭄 국민안전행동요령
+31,가뭄 주의사항,DialogAdapter,IT-0039,가뭄 국민안전행동요령
+32,대설,DialogAdapter,IT-0040,대설 국민안전행동요령
+33,폭설,DialogAdapter,IT-0040,대설 국민안전행동요령
+34,한파,DialogAdapter,IT-0041,한파 국민안전행동요령
+35,매서운 추위,DialogAdapter,IT-0041,한파 국민안전행동요령
+36,동상,DialogAdapter,IT-0041,한파 국민안전행동요령
+37,지진,DialogAdapter,IT-0042,지진 국민안전행동요령
+38,지진 대처법,DialogAdapter,IT-0042,지진 국민안전행동요령
+39,장소별 지진 대처법,DialogAdapter,IT-0043,장소별 지진 국민안전행동요령
+40,장소별 지진 행동요령,DialogAdapter,IT-0043,장소별 지진 국민안전행동요령
+41,상황별 지진 대처법,DialogAdapter,IT-0044,상황별 지진 국민안전행동요령
+42,상활별 지진 행동요령,DialogAdapter,IT-0042,지진 국민안전행동요령
+43,화산재,DialogAdapter,IT-0045,화산재 낙하 국민안전행동요령
+44,화산폭발,DialogAdapter,IT-0045,화산재 낙하 국민안전행동요령
+45,화산 분출,DialogAdapter,IT-0045,화산재 낙하 국민안전행동요령
+46,황사,,,
+47,미세먼지,DialogAdapter,IT-0046,황사 고농도 미세먼지 국민안전행동요령
+48,초미세먼지,DialogAdapter,IT-0046,황사 고농도 미세먼지 국민안전행동요령
+49,산사태,DialogAdapter,IT-0047,산사태 국민안전행동요령
+50,사회재난,DialogAdapter,IT-0048,사회재난 국민안전행동요령
+51,사회재난 방지,DialogAdapter,IT-0048,사회재난 국민안전행동요령
+52,사회재난 대처법,DialogAdapter,IT-0048,사회재난 국민안전행동요령
+53,해양오염,DialogAdapter,IT-0049,해양오염사고 국민안전행동요령
+54,바다오염,DialogAdapter,IT-0049,해양오염사고 국민안전행동요령
+55,수질오염 대처법,DialogAdapter,IT-0050,대규모 수질오염 국민안전행동요령
+56,수질오염,DialogAdapter,IT1607320217567001,대기·수질오염 신고 안내
+57,식용수,DialogAdapter,IT-0051,식용수 오염 국민안전행동요령
+58,식용수 오염,DialogAdapter,IT-0051,식용수 오염 국민안전행동요령
+59,식수,DialogAdapter,IT-0051,식용수 오염 국민안전행동요령
+60,식수 오염,DialogAdapter,IT-0051,식용수 오염 국민안전행동요령
+61,공동구,DialogAdapter,IT-0052,공동구 사고 국민안전행동요령
+62,공동구 사고,DialogAdapter,IT-0052,공동구 사고 국민안전행동요령
+63,공동구 균열,DialogAdapter,IT-0052,공동구 사고 국민안전행동요령
+64,가축 전염병,DialogAdapter,IT-0053,가축 전염병 국민안전행동요령
+65,감염병 예방,DialogAdapter,IT-0054,감염병 예방 국민안전행동요령
+66,감염병,DialogAdapter,IT-0054,감염병 예방 국민안전행동요령
+67,고속철도 사고,DialogAdapter,IT-0055,고속철도 사고 국민안전행동요령
+68,기차,DialogAdapter,IT-0055,고속철도 사고 국민안전행동요령
+69,고속철도,FallbackAdapter,IT-FALLBACK,폴백 메시지
+70,지하철,DialogAdapter,IT-0056,지하철 사고 국민안전행동요령
+71,지하철 사고,DialogAdapter,IT-0056,지하철 사고 국민안전행동요령
+72,방사선,DialogAdapter,IT-0057,방사선 누출 사고 국민안전행동요령
+73,방사선 누출,DialogAdapter,IT-0057,방사선 누출 사고 국민안전행동요령
+74,방사선 누출 사고,DialogAdapter,IT-0057,방사선 누출 사고 국민안전행동요령
+75,방사선 사고,DialogAdapter,IT-0057,방사선 누출 사고 국민안전행동요령
+76,화학물질,DialogAdapter,IT-0058,화학물질 사고 국민안전행동요령
+77,화학물질 유출,DialogAdapter,IT-0058,화학물질 사고 국민안전행동요령
+78,화학 물질 사고,DialogAdapter,IT-0058,화학물질 사고 국민안전행동요령
+79,화재,DialogAdapter,IT-0066,산불 국민안전행동요령
+80,화재 대처법,DialogAdapter,IT-0066,산불 국민안전행동요령
+81,화재 행동요령,DialogAdapter,IT-0066,산불 국민안전행동요령
+82,화재 경보,DialogAdapter,IT-0060,화재 경보가 울릴때
+83,화재 경보시 행동,DialogAdapter,IT-0060,화재 경보가 울릴때
+84,불 발견,DialogAdapter,IT-0061,불을 발견했을때
+85,불이야!,DialogAdapter,IT-0059,화재 국민안전행동요령
+86,불,DialogAdapter,IT-0066,산불 국민안전행동요령
+87,완강기,DialogAdapter,IT-0062,완강기 사용법
+88,완강기 사용법,DialogAdapter,IT-0062,완강기 사용법
+89,옷에 불,DialogAdapter,IT-0065,옷에 불이 붙었을때
+90,불 붙었을때,DialogAdapter,IT-0065,옷에 불이 붙었을때
+91,산불,DialogAdapter,IT-0066,산불 국민안전행동요령
+92,산에서 불이나,DialogAdapter,IT-0066,산불 국민안전행동요령
+93,산불 안전수칙,DialogAdapter,IT-0066,산불 국민안전행동요령
+94,건축물 붕괴 안전수칙,DialogAdapter,IT-0067,건축물 붕괴 국민안전행동요령
+95,건축물 붕괴,DialogAdapter,IT1607320061875001,도로·시설물 파손 및 고장 신고 안내
+96,건물 붕괴,DialogAdapter,IT1607320061875001,도로·시설물 파손 및 고장 신고 안내
+97,건축물 붕괴 징후,DialogAdapter,IT-0068,건축물 붕괴 징후와 붕괴사고 신고
+98,건물 붕괴 징후,DialogAdapter,IT-0068,건축물 붕괴 징후와 붕괴사고 신고
+99,건축물 붕괴 전조,DialogAdapter,IT1607320061875001,도로·시설물 파손 및 고장 신고 안내
+100,건물 붕괴 전조,DialogAdapter,IT1607320061875001,도로·시설물 파손 및 고장 신고 안내
+101,붕괴된 건물 안,DialogAdapter,IT-0069,붕괴된 건축물 안에 있을 경우
+102,붕괴된 건축물 안,DialogAdapter,IT-0069,붕괴된 건축물 안에 있을 경우
+103,댐 붕괴,DialogAdapter,IT-0071,댐 붕괴 국민안전행동요령
+104,댐 붕괴시 대처법,DialogAdapter,IT-0071,댐 붕괴 국민안전행동요령
+105,전기,DialogAdapter,IT1607320474688001,에너지 과소비 신고 안내
+106,전기 사고,DialogAdapter,IT-0072,전기 사고 국민안전행동요령
+107,정전시 대처법,DialogAdapter,IT-0078,정전 발생 시 조치
+108,우리집 정전 됬어,DialogAdapter,IT-0073,우리 집만 정전 시
+109,집 정전,DialogAdapter,IT-0072,전기 사고 국민안전행동요령
+110,이웃과 정전,DialogAdapter,IT-0074,이웃과 같이 정전 시
+111,이웃들 정전,DialogAdapter,IT-0074,이웃과 같이 정전 시
+112,예고 정전,DialogAdapter,IT-0075,예고 정전 시
+113,정전 예고,DialogAdapter,IT-0075,예고 정전 시
+114,엘리베이터 정전,DialogAdapter,IT-0076,엘리베이터에서 정전 시
+115,엘레베이터 정전,DialogAdapter,IT-0076,엘리베이터에서 정전 시
+116,대피 명령,DialogAdapter,IT-0077,대피 명령 시 전기 설비 조치
+117,전기 설비,DialogAdapter,IT-0072,전기 사고 국민안전행동요령
+118,전기 설비 조치,DialogAdapter,IT-0072,전기 사고 국민안전행동요령
+119,정전,DialogAdapter,IT-0072,전기 사고 국민안전행동요령
+120,정전 났어!,DialogAdapter,IT-0072,전기 사고 국민안전행동요령
+121,정전 발생,DialogAdapter,IT-0078,정전 발생 시 조치
+122,야외 전기 사고,DialogAdapter,IT-0079,야외에서 전기 사고 예방
+123,야외 전기,DialogAdapter,IT-0079,야외에서 전기 사고 예방
+124,재해 전 전기사고,DialogAdapter,IT-0080,재해발생 전 전기 사고 예방
+125,재해 전기사고,DialogAdapter,IT-0072,전기 사고 국민안전행동요령
+126,선박ㆍ배사고,DialogAdapter,IT-0081,선박 사고 국민안전행동요령
+127,선박ㆍ배사고 대처법,DialogAdapter,IT-0081,선박 사고 국민안전행동요령
+128,선박ㆍ배사고에 대해 알려줘,DialogAdapter,IT-0081,선박 사고 국민안전행동요령
+129,테러,DialogAdapter,IT-0082,테러 국민안전행동요령
+130,테러 대처법,DialogAdapter,IT-0082,테러 국민안전행동요령
+131,테러 현장,DialogAdapter,IT-0082,테러 국민안전행동요령
+132,터널 사고,DialogAdapter,IT-0083,도로 터널사고 국민안전행동요령
+133,터널 사고 대처법,DialogAdapter,IT-0083,도로 터널사고 국민안전행동요령
+134,도로 터널 사고,DialogAdapter,IT-0083,도로 터널사고 국민안전행동요령
+135,일상생활 안전수칙,DialogAdapter,IT-0084,생활안전 국민안전행동요령
+136,생활 안전,DialogAdapter,IT-0084,생활안전 국민안전행동요령
+137,응급처치,DialogAdapter,IT-0085,응급처치 국민안전행동요령
+138,응급상황,DialogAdapter,IT-0085,응급처치 국민안전행동요령
+139,심폐소생술,DialogAdapter,IT-0086,심폐소생술 국민안전행동요령
+140,심폐소생술 하는법,DialogAdapter,IT-0086,심폐소생술 국민안전행동요령
+141,심장 충격기,DialogAdapter,IT-0087,자동심장충격기 국민안전행동요령
+142,심장충격기 사용법,DialogAdapter,IT-0087,자동심장충격기 국민안전행동요령
+143,심장이 안뛰어,DialogAdapter,IT1620290343011001,긴급 신고
+144,소화기 사용법,DialogAdapter,IT-0088,소화기 사용법 국민안전행동요령
+145,소화기,DialogAdapter,IT-0088,소화기 사용법 국민안전행동요령
+146,소화전 사용법,DialogAdapter,IT-0179,도움말 요청
+147,소화전,FallbackAdapter,IT-FALLBACK,폴백 메시지
+148,식중독,DialogAdapter,IT-0090,식중독예방 국민안전행동요령
+149,식중독 증상,DialogAdapter,IT-0090,식중독예방 국민안전행동요령
+150,식중독 예방,DialogAdapter,IT-0090,식중독예방 국민안전행동요령
+151,노로바이러스,DialogAdapter,IT-0090,식중독예방 국민안전행동요령
+152,노로바이러스가 뭐야?,DialogAdapter,IT-0091,노로바이러스의 특징과 주요 증상
+153,노로바이러스 특징,DialogAdapter,IT-0091,노로바이러스의 특징과 주요 증상
+154,노로바이러스 증상,DialogAdapter,IT-0090,식중독예방 국민안전행동요령
+155,노로 바이러스 감염,DialogAdapter,IT-0090,식중독예방 국민안전행동요령
+156,노로바이러스 감염경로,DialogAdapter,IT-0090,식중독예방 국민안전행동요령
+157,노로바이러스 예방,DialogAdapter,IT-0093,노로바이러스 식중독 예방
+158,노로바이러스 예방법,DialogAdapter,IT-0090,식중독예방 국민안전행동요령
+159,노로바이러스 대처법,DialogAdapter,IT-0090,식중독예방 국민안전행동요령
+160,나들이철 식중독,DialogAdapter,IT-0094,나들이철 식중독 발생원인
+161,나들이 식중독 원인,DialogAdapter,IT-0094,나들이철 식중독 발생원인
+162,나들이 식중독,DialogAdapter,IT-0094,나들이철 식중독 발생원인
+163,나들이철 도시락,DialogAdapter,IT-0095,나들이철 도시락 식중독 예방 방법
+164,도시락 식중독,DialogAdapter,IT-0095,나들이철 도시락 식중독 예방 방법
+165,산나물 식중독,DialogAdapter,IT-0096,나들이철 산나물 섭취 식중독 예방 방법
+166,장염비브리오,DialogAdapter,IT-0098,장염비브리오 예방 요령
+167,장염비브리오가 뭐야?,DialogAdapter,IT-0098,장염비브리오 예방 요령
+168,장염비브리오 예방,DialogAdapter,IT-0098,장염비브리오 예방 요령
+169,장염비브리오 대처법,DialogAdapter,IT-0036,태풍 호우 국민안전행동요령
+170,수상레저기구,DialogAdapter,IT-0099,수상레저기구 안전 국민안전행동요령
+171,수상레저기구 안전수칙,DialogAdapter,IT-0099,수상레저기구 안전 국민안전행동요령
+172,낚시,DialogAdapter,IT-0100,낚시 안전 국민안전행동요령
+173,낚시 안전수칙,DialogAdapter,IT-0100,낚시 안전 국민안전행동요령
+174,낚시할때 유의점,DialogAdapter,IT-0100,낚시 안전 국민안전행동요령
+175,바다낚시,DialogAdapter,IT-0102,바다 낚시 안전
+176,바다낚시 안전수칙,DialogAdapter,IT-0102,바다 낚시 안전
+177,내수면 낚시,DialogAdapter,IT-0103,내수면 낚시 안전
+178,내수면 낚시 안전수칙,DialogAdapter,IT-0103,내수면 낚시 안전
+179,물놀이,DialogAdapter,IT-0104,물놀이 안전 국민안전행동요령
+180,물놀이 주의사항,DialogAdapter,IT-0104,물놀이 안전 국민안전행동요령
+181,물놀이 안전수칙,DialogAdapter,IT-0104,물놀이 안전 국민안전행동요령
+182,등산ㆍ산행 안전수칙,DialogAdapter,IT-0105,산행 안전 국민안전행동요령
+183,어린이 놀이시설 안전수칙,DialogAdapter,IT-0106,어린이 놀이 시설 국민안전행동요령
+184,오르기 기구,DialogAdapter,IT-0107,오르기 기구 국민안전행동요령
+185,오르기 기구 안전수칙,DialogAdapter,IT-0107,오르기 기구 국민안전행동요령
+186,오르기 기구 사고 대처법,DialogAdapter,IT-0107,오르기 기구 국민안전행동요령
+187,그네,FallbackAdapter,IT-FALLBACK,폴백 메시지
+188,그네 안전수칙,DialogAdapter,IT-0108,그네 국민안전행동요령
+189,그네 이용시 행동요령,DOUB API,IT-0034,국민안전행동요령
+190,미끄럼틀,DialogAdapter,IT-0109,미끄럼틀 국민안전행동요령
+191,미끄럼틀 안전수칙,DialogAdapter,IT-0109,미끄럼틀 국민안전행동요령
+192,미끄럼틀 행동요령,DialogAdapter,IT-0109,미끄럼틀 국민안전행동요령
+193,공연장,DialogAdapter,IT-0112,공연장 사고 시 대처
+194,공연장 주의사항,DialogAdapter,IT-0110,공연장 국민안전행동요령
+195,공연장 안전수칙,DialogAdapter,IT-0110,공연장 국민안전행동요령
+196,공연장,DialogAdapter,IT-0112,공연장 사고 시 대처
+197,공연장 운영자,DialogAdapter,IT-0111,공연장 운영자와 관람객 국민안전행동요령
+198,공연장 사고 시 대처법,DialogAdapter,IT-0112,공연장 사고 시 대처
+199,공연장 사고,DialogAdapter,IT-0112,공연장 사고 시 대처
+200,어린이 실종,DialogAdapter,IT-0113,어린이 실종 유괴 예방 국민안전행동요령
+201,어린이 유괴,DialogAdapter,IT-0113,어린이 실종 유괴 예방 국민안전행동요령
+202,학교폭력,DialogAdapter,IT-0114,학교폭력 안전 국민안전행동요령
+203,학교폭력 대응,DialogAdapter,IT-0114,학교폭력 안전 국민안전행동요령
+204,교통사고,DialogAdapter,IT-0115,교통사고 국민안전행동요령
+205,교통사고 대처법,DialogAdapter,IT-0115,교통사고 국민안전행동요령
+206,승강기,DialogAdapter,IT-0116,승강기 사고 국민안전행동요령
+207,승강기 안전수칙,DialogAdapter,IT-0116,승강기 사고 국민안전행동요령
+208,승강기 탈때 주의사항,DialogAdapter,IT-0108,그네 국민안전행동요령
+209,어린이 행동요령,DialogAdapter,IT-0117,어린이 안전 국민안전행동요령
+210,어린이 안전 수칙,DialogAdapter,IT-0117,어린이 안전 국민안전행동요령
+211,가정 내 어린이 안전,DialogAdapter,IT-0118,가정에서 어린이 안전
+212,집안에서 어린이 안전,DialogAdapter,IT-0118,가정에서 어린이 안전
+213,마트 안 어린이 안전수칙,DialogAdapter,IT-0119,마트에서 어린이 안전
+214,마트 어린이,DialogAdapter,IT-0119,마트에서 어린이 안전
+215,학교내 어린이 안전,DialogAdapter,IT-0120,학교에서 어린이 안전
+216,교내 어린이 안전,DialogAdapter,IT-0120,학교에서 어린이 안전
+217,공원 어린이 안전,DialogAdapter,IT-0121,공원에서 어린이 안전
+218,자살 예방,DialogAdapter,IT-0124,자살 예방 방법
+219,자살,DialogAdapter,IT-0124,자살 예방 방법
+220,자살 예방 행동요령,DialogAdapter,IT-0122,자살 예방 국민안전행동요령
+221,자살 징후,DialogAdapter,IT-0123,자살 징후
+222,자살 전조,DialogAdapter,IT-0123,자살 징후
+223,자살 조짐,DialogAdapter,IT-0123,자살 징후
+224,자살 예방,DialogAdapter,IT-0124,자살 예방 방법
+225,자살,DialogAdapter,IT-0124,자살 예방 방법
+226,자살 예방 행동요령,DialogAdapter,IT-0122,자살 예방 국민안전행동요령
+227,자전거 행동요령,DialogAdapter,IT-0125,자전거 안전 국민안전행동요령
+228,자전거 안전 수칙,DialogAdapter,IT-0125,자전거 안전 국민안전행동요령
+229,야영장,DialogAdapter,IT-0126,야영장 안전 국민안전행동요령
+230,야영장 안전 수칙,DialogAdapter,IT-0126,야영장 안전 국민안전행동요령
+231,야영장 행동요령,DialogAdapter,IT-0126,야영장 안전 국민안전행동요령
+232,수돗물,DialogAdapter,IT-0127,수돗물 단수 국민안전행동요령
+233,수돗물 단수,DialogAdapter,IT-0127,수돗물 단수 국민안전행동요령
+234,수돗물 끊겼을때,DialogAdapter,IT-0127,수돗물 단수 국민안전행동요령
+235,지역축제장,DialogAdapter,IT-0128,지역축제장 안전 국민안전행동요령
+236,지역축제장 안전수칙,DialogAdapter,IT-0128,지역축제장 안전 국민안전행동요령
+237,농기계,DialogAdapter,IT-0129,농기계 안전 국민안전행동요령
+238,농기계 안전수칙,DialogAdapter,IT-0117,어린이 안전 국민안전행동요령
+239,농기계 사용,DOUB API,IT-0129,농기계 안전 국민안전행동요령
+240,가스 안전 행동요령,DialogAdapter,IT-0039,가뭄 국민안전행동요령
+241,가스 안전,FallbackAdapter,IT-FALLBACK,폴백 메시지
+242,가스 사용시,DOUB API,IT-0131,가스 사용 시
+243,가스 사용시 주의사항,DialogAdapter,IT-0108,그네 국민안전행동요령
+244,부탄 가스레인지,DialogAdapter,IT-0134,부탄 가스레인지 사용법
+245,부탄가스레인지,FallbackAdapter,IT-FALLBACK,폴백 메시지
+246,가스 누출 대응법,DialogAdapter,IT1607320217567001,대기·수질오염 신고 안내
+247,가스 누출,DialogAdapter,IT1607320217567001,대기·수질오염 신고 안내
+248,전기 안전 행동요령,DialogAdapter,IT-0136,전기 안전 국민안전행동요령
+249,전기 안전 행동,DialogAdapter,IT-0072,전기 사고 국민안전행동요령
+250,전기 안전,DialogAdapter,IT-0072,전기 사고 국민안전행동요령
+251,비상대비 대응법,DialogAdapter,IT-0137,비상대비 국민안전행동요령
+252,비상대비 수칙,DialogAdapter,IT-0137,비상대비 국민안전행동요령
+253,재난 대비 행동,DialogAdapter,IT-0138,재난대비 국민안전행동요령
+254,재난 대비,DialogAdapter,IT-0138,재난대비 국민안전행동요령
+255,재난 대비 준비할 것,DialogAdapter,IT-0139,재난 대비 준비 사항
+256,재난 대비사항,DialogAdapter,IT-0139,재난 대비 준비 사항
+257,재난 대비 준비 식품,DialogAdapter,IT-0140,재난 대비 식품 의약품
+258,재난 대비 준비 의약품,DialogAdapter,IT-0140,재난 대비 식품 의약품
+259,재난 대비 준비 위생용품,DialogAdapter,IT-0141,재난 대비 위생용품 생활용품
+260,재난 대비 준비 생활용품,DialogAdapter,IT-0141,재난 대비 위생용품 생활용품
+261,재난 대비 준비 안전용품,DialogAdapter,IT-0142,재난 대비 안전용품 응급처치용품
+262,재난 대비 응급 처치용품,DialogAdapter,IT-0142,재난 대비 안전용품 응급처치용품
+263,국민안전행동요령 동영상,DialogAdapter,IT-0143,국민안전행동요령 동영상
+264,신고내역조회,DialogAdapter,IT-0152,신고 내역 조회
+265,신고내역,DialogAdapter,IT-0152,신고 내역 조회
+266,신고조회,DialogAdapter,IT-0152,신고 내역 조회
+267,신고처리 관련 문의,DialogAdapter,IT-0153,신고 처리 관련 문의
+268,신고처리,DialogAdapter,IT1610007855287001,신고 처리 기관 문의
+269,신고 결과 불만족,DialogAdapter,IT-0154,신고 처리 결과 불만족
+270,신고 불만족,DialogAdapter,IT-0154,신고 처리 결과 불만족
+271,신고 결과가 마음에 안들어,DialogAdapter,IT-0154,신고 처리 결과 불만족
+272,신고 취소,DialogAdapter,IT-0156,신고 취하
+273,신고 철회,DialogAdapter,IT-0020,신고 안내
+274,신고 접수 철회,DialogAdapter,IT-0156,신고 취하
+275,유선전화 신고,DialogAdapter,IT-0158,유선전화 신고 문의
+276,유선 전화,DialogAdapter,IT-0158,유선전화 신고 문의
+277,Gps 작동 오류,FallbackAdapter,IT-FALLBACK,폴백 메시지
+278,gPs작동오류,FallbackAdapter,IT-FALLBACK,폴백 메시지
+279,GPS 동작 오류,DialogAdapter,IT-0160,GPS 작동 오류
+280,업데이트,DialogAdapter,IT-0161,앱 업데이트 문의
+281,업데이트 문의,DialogAdapter,IT-0161,앱 업데이트 문의
+282,인증번호가 안와,DialogAdapter,IT-0162,본인인증번호 수신 불가
+283,본인인증번호 안올때,DialogAdapter,IT-0162,본인인증번호 수신 불가
+284,아이디ㆍ비번 분실,DialogAdapter,IT-0163,아이디 비밀번호 분실
+285,아이디ㆍ비번 까먹었어,FallbackAdapter,IT-FALLBACK,폴백 메시지
+286,재난 정보,DialogAdapter,IT-0164,재난종합상황분석
+287,재난 상황별 대처법,DialogAdapter,IT-0044,상황별 지진 국민안전행동요령
+288,이번달 날씨,DOUB API,IT-0166,이번 달 기상전망
+289,기상 정보,DialogAdapter,IT-0166,이번 달 기상전망
+290,날씨정보,DialogAdapter,IT-0166,이번 달 기상전망
+291,요즘 재난 현황,DialogAdapter,IT-0170,이번 달 주요재난현황
+292,요새 재난 현황 알려줘,DialogAdapter,IT-0164,재난종합상황분석
+293,요새 주의할 행동,DialogAdapter,IT-0164,재난종합상황분석
+294,요즘 안전수칙,DialogAdapter,IT-0172,이번 달 국민안전행동요령
+295,신고처리 현황,DialogAdapter,IT-0176,전체 신고처리현황 보기
+296,지역별 신고처리 현황,DialogAdapter,IT-0176,전체 신고처리현황 보기
+297,도움말 요청,DialogAdapter,IT-0179,도움말 요청
+298,도와줘,DialogAdapter,IT-0179,도움말 요청
+299,너는 뭘 할수있어?,DialogAdapter,IT-0179,도움말 요청
+300,도움말,DialogAdapter,IT-0179,도움말 요청
+301,코로나 신고 어떻게 해?,DialogAdapter,IT1607321122687001,코로나19 신고 유형 안내
+302,신고사진 어떻게 찍어야되?,DialogAdapter,IT-0193,불법주정차 신고 촬영 방법 안내
+303,불법주차 신고 사진 찍는법,DialogAdapter,IT-0193,불법주정차 신고 촬영 방법 안내
+304,불법주차 촬영,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+305,신고지도,DialogAdapter,IT-0196,신고현황지도 보기
+306,신고지도 보여줘,DialogAdapter,IT-0196,신고현황지도 보기
+307,사고다발지역,DialogAdapter,IT-0197,사고다발지역 보기
+308,사고다발 지역 보여줘,DialogAdapter,IT-0197,사고다발지역 보기
+309,안전신고통계,DialogAdapter,IT-0198,안전신고통계 보기
+310,안전신고 통계 보여줘,DialogAdapter,IT-0198,안전신고통계 보기
+311,신고 통계,DialogAdapter,IT-0198,안전신고통계 보기
+312,나의ㆍ내 마일리지,DialogAdapter,IT-0200,나의 마일리지 확인
+313,나의ㆍ내 마일리지 보여줘,DialogAdapter,IT-0200,나의 마일리지 확인
+314,안전행동 추천해줘,DialogAdapter,IT-0201,추천 국민안전행동요령
+315,어떤 안전행동을 하는게 좋을까?,DOUB API,IT-0034,국민안전행동요령
+316,안전뉴스 추천,DialogAdapter,IT-0205,추천 안전 뉴스
+317,뉴스 추천,DialogAdapter,IT-0205,추천 안전 뉴스
+318,안전일기 보기,DialogAdapter,IT-0206,나의 안전일기 보기
+319,내 안전일기 보기,DialogAdapter,IT-0206,나의 안전일기 보기
+320,내 안전일기,DialogAdapter,IT-0206,나의 안전일기 보기
+321,일기작성,DialogAdapter,IT-0207,나의 안전일기 작성
+322,안전일기 작성방법,DialogAdapter,IT-0207,나의 안전일기 작성
+323,나의 안전일기 작성,DialogAdapter,IT-0207,나의 안전일기 작성
+324,알림,DialogAdapter,IT-0208,알림 수신함
+325,알림수신함,DialogAdapter,IT-0208,알림 수신함
+326,안전점검,DialogAdapter,IT-0211,자가 안전점검 조회
+327,안전점검 조회,DialogAdapter,IT-0211,자가 안전점검 조회
+328,내 안전점검 결과,DialogAdapter,IT-0212,자가 안전점검 결과
+329,안전전검 결과,FallbackAdapter,IT-FALLBACK,폴백 메시지
+330,안전점검 결과 알려줘~,DialogAdapter,IT-0212,자가 안전점검 결과
+331,회원탈퇴,DialogAdapter,IT-0213,회원 탈퇴
+332,회원탈퇴 하는법좀 알려줘~,DialogAdapter,IT-0213,회원 탈퇴
+333,홍보 영상,DialogAdapter,IT-0215,홍보영상 보기
+334,홍보 동영상,DialogAdapter,IT-0215,홍보영상 보기
+335,홍보동영상 같은거 있어?,DialogAdapter,IT-0215,홍보영상 보기
+336,안전 뉴스,DialogAdapter,IT-0216,안전 뉴스 보기
+337,안전 뉴스좀 보여줘,DialogAdapter,IT-0216,안전 뉴스 보기
+338,자료실,DialogAdapter,IT-0217,자료실 보기
+339,안전신문고 자료 있어?,DialogAdapter,IT-0217,자료실 보기
+340,공지사항,DialogAdapter,IT-0218,공지사항 보기
+341,공지사항 보여줘,DialogAdapter,IT-0218,공지사항 보기
+342,공지사항 어디서봐?,DialogAdapter,IT-0218,공지사항 보기
+343,안전신고 절차,DialogAdapter,IT-0219,안전 신고 절차
+344,안전신고 절차가 어떻게돼?,DialogAdapter,IT1610008160192001,신고 처리 절차 문의
+345,접근성 설정,DialogAdapter,IT-0220,앱 접근성 설정 안내
+346,접근성,DialogAdapter,IT1610008602453001,앱 음성 안내 문의
+347,고객센터 전화번호,DialogAdapter,IT-0221,안신앱 운영센터 전화 연결
+348,상담사 전화번호,DOUB API,IT-0221,안신앱 운영센터 전화 연결
+349,코로나 발생 동향,DialogAdapter,IT-0224,코로나 발생동향
+350,코로나 발생 현황,DialogAdapter,IT-0224,코로나 발생동향
+351,코로나 동향,DialogAdapter,IT-0224,코로나 발생동향
+352,코로나 현황,DialogAdapter,IT-0224,코로나 발생동향
+353,코로나 뉴스,DialogAdapter,IT-0225,코로나 뉴스 안내
+354,코로나 이슈,DialogAdapter,IT-0225,코로나 뉴스 안내
+355,코로나 주의사항,DialogAdapter,IT-0227,코로나 대상별 유의사항
+356,코로나 유의사항,DialogAdapter,IT-0227,코로나 대상별 유의사항
+357,코로나 일반인 유의사항,DialogAdapter,IT-0228,코로나 일반인 유의사항
+358,일반인 코로나 유의사항,DialogAdapter,IT-0228,코로나 일반인 유의사항
+359,코로나 자가격리대상자 유의사항,DialogAdapter,IT-0229,코로나 자가격리대상자 유의사항
+360,자가격리대상자 코로나 유의사항,DialogAdapter,IT-0229,코로나 자가격리대상자 유의사항
+361,코로나 자가격리자의 가족 및 동거인 유의사항,DialogAdapter,IT-0230,코로나 자가격리자의 가족 및 동거인 유의사항
+362,동거인 코로나 유의사항,DialogAdapter,IT-0227,코로나 대상별 유의사항
+363,코로나 입국자 및 해외 여행객 유의사항,DialogAdapter,IT-0231,코로나 입국자 및 해외 여행객 유의사항
+364,여행객 코로나 유의사항,DialogAdapter,IT-0227,코로나 대상별 유의사항
+365,코로나 의료기관 유의사항,DialogAdapter,IT-0232,코로나 의료기관 유의사항
+366,의료기관 코로나 유의사항,DialogAdapter,IT-0232,코로나 의료기관 유의사항
+367,코로나 외식업 종사자 유의사항,DialogAdapter,IT-0233,코로나 외식업 종사자 유의사항
+368,종사자 코로나 유의사항,DialogAdapter,IT-0233,코로나 외식업 종사자 유의사항
+369,코로나 자주하는 질문,DialogAdapter,IT-0234,코로나 자주하는 질문
+370,코로나 FAQ,DialogAdapter,IT-0234,코로나 자주하는 질문
+371,코로나 질병 문의,DialogAdapter,IT1604366509372001,코로나19 선별진료소 문의
+372,코로나 정식명칭,DialogAdapter,IT-0237,코로나19 명칭 문의
+373,코로나 정식명칭을 뭐라고 불러?,DialogAdapter,IT-0237,코로나19 명칭 문의
+374,코로나 증상,DialogAdapter,IT1615447411189001,코로나 유증상자 유의사항
+375,코로나 전염경로,DialogAdapter,IT-0239,코로나19 전염 경로 문의
+376,코로나 전염,DialogAdapter,IT-0239,코로나19 전염 경로 문의
+377,코로나 접촉자,DialogAdapter,IT-0241,코로나19 접촉자 문의
+378,코로나 치료ㆍ치료법,DialogAdapter,IT-0242,코로나19 치료법 문의
+379,코로나 백신,DialogAdapter,IT-0242,코로나19 치료법 문의
+380,코로나 위험군,DialogAdapter,IT-0243,코로나19 위험군 문의
+381,코로나 위험한사람,DialogAdapter,IT-0243,코로나19 위험군 문의
+382,코로나 음식전염,DialogAdapter,IT-0244,코로나19 음식 전염 문의
+383,코로나 음식 감염,DialogAdapter,IT-0244,코로나19 음식 전염 문의
+384,안드로이드 접근성 설정 안내ㆍ방법,DialogAdapter,IT-0249,Android 접근성 설정 안내
+385,안드로이드 접근성,DialogAdapter,IT-0249,Android 접근성 설정 안내
+386,아이폰 접근성 설정,DialogAdapter,IT-0250,iOS 접근성 설정 안내
+387,애플 접근성 설정,DialogAdapter,IT-0250,iOS 접근성 설정 안내
+388,무너진 구조물에 갇힌경우,DialogAdapter,IT-0650,붕괴된 구조물에 갇힌 경우
+389,붕괴된 구조물에 깔린경우,DialogAdapter,IT-0650,붕괴된 구조물에 갇힌 경우
+390,코로나 신고ㆍ위법 대상,DialogAdapter,IT-0679,코로나19 신고 대상
+391,코로나 선별진료소,DialogAdapter,IT1604366509372001,코로나19 선별진료소 문의
+392,코로나 선별진료소 위치,DialogAdapter,IT1604366509372001,코로나19 선별진료소 문의
+393,선별진료소,DialogAdapter,IT1604366509372001,코로나19 선별진료소 문의
+394,마스크 착용법ㆍ착용방법,DialogAdapter,IT1604393596688001,코로나19 마스크 착용법
+395,일상생활 불편신고,DialogAdapter,IT1606892768439001,생활불편신고 유형 안내
+396,불편신고,DialogAdapter,IT1606892768439001,생활불편신고 유형 안내
+397,불법광고,DialogAdapter,IT1606898609134001,불법광고물 신고 안내
+398,불법ㆍ위법광고 신고,DialogAdapter,IT1606898609134001,불법광고물 신고 안내
+399,안전신고 유형ㆍ종류,DialogAdapter,IT1607320056137001,안전 신고 유형 안내
+400,도로 손상 신고,DialogAdapter,IT1607320061875001,도로·시설물 파손 및 고장 신고 안내
+401,도로시설 훼손,DialogAdapter,IT1607320061875001,도로·시설물 파손 및 고장 신고 안내
+402,도로손상 신고법ㆍ신고내용 작성법,DialogAdapter,IT1607320061875001,도로·시설물 파손 및 고장 신고 안내
+403,공사장 위험,DialogAdapter,IT1607320172233001,"건설, (해체)공사장 위험"
+404,건설 공사장 위험,DialogAdapter,IT1607320176518001,"건설, (해체)공사장 위험 신고내용 작성요령"
+405,건설중인 공사장 위험,DialogAdapter,IT1607320176518001,"건설, (해체)공사장 위험 신고내용 작성요령"
+406,건설 공사장 위험신고내용 작성법,DialogAdapter,IT1607320176518001,"건설, (해체)공사장 위험 신고내용 작성요령"
+407,건설 공사장 위험신고내용 작성내용,DialogAdapter,IT1607320176518001,"건설, (해체)공사장 위험 신고내용 작성요령"
+408,지하수로 방치,DialogAdapter,IT1607320211556001,지하수 미등록 시설·방치공 신고 안내
+409,지하수도 미등록 신고,DialogAdapter,IT1607320211556001,지하수 미등록 시설·방치공 신고 안내
+410,지하수로 방치 신고내용 작성법,DialogAdapter,IT1607320211556001,지하수 미등록 시설·방치공 신고 안내
+411,지하수도 미등록 신고내용 작성,DialogAdapter,IT1607320211556001,지하수 미등록 시설·방치공 신고 안내
+412,매연ㆍ오수ㆍ폐수 무단 배출 신고,DialogAdapter,IT1607320217567001,대기·수질오염 신고 안내
+413,매연ㆍ오수ㆍ폐수 무단 배출 신고 작성내용,DialogAdapter,IT1607320217567001,대기·수질오염 신고 안내
+414,쓰레기ㆍ폐기물ㆍ유독물 무단 배출ㆍ투기 신고,DialogAdapter,IT1607320222804001,쓰레기·폐기물·유독물 신고 안내
+415,쓰레기ㆍ폐기물ㆍ유독물 무단 배출ㆍ투기 신고 작성내용,DialogAdapter,IT1607320222804001,쓰레기·폐기물·유독물 신고 안내
+416,차선침범ㆍ역주행ㆍ신호위반ㆍ속도위반 신고,DialogAdapter,IT1607320239691001,교통위반 신고 안내
+417,차선침범ㆍ역주행ㆍ신호위반ㆍ속도위반 신고 작성내용,FallbackAdapter,IT-FALLBACK,폴백 메시지
+418,기타 위험요인 신고,DialogAdapter,IT1607320457270001,기타 안전·환경 위험요인 신고 안내
+419,그 밖에 위험요인 신고,DialogAdapter,IT1607320457270001,기타 안전·환경 위험요인 신고 안내
+420,불법광고 신고내용 작성법,DialogAdapter,IT1606898609134001,불법광고물 신고 안내
+421,불법광고 신고 작성내용,DialogAdapter,IT1606898609134001,불법광고물 신고 안내
+422,자전거 장기간 방치 신고,DialogAdapter,IT1607320466288001,자전거·이륜차 방치 및 불편 신고 안내
+423,오토바이 오랜시간동안 방치 신고,DialogAdapter,IT1607320466288001,자전거·이륜차 방치 및 불편 신고 안내
+424,자전거 장기간 방치 신고내용 작성법,DialogAdapter,IT1607320466288001,자전거·이륜차 방치 및 불편 신고 안내
+425,청소년ㆍ학생ㆍ미성년자 유해 업소 신고,DialogAdapter,IT1607320470551001,청소년 유해 업소 신고 안내
+426,청소년ㆍ학생ㆍ미성년자 유해 업소 신고내용 작성법,DialogAdapter,IT1607320470551001,청소년 유해 업소 신고 안내
+427,연료ㆍ에너지 낭비 신고,DialogAdapter,IT1607320474688001,에너지 과소비 신고 안내
+428,연료ㆍ에너지 과소비 신고,DialogAdapter,IT1607320474688001,에너지 과소비 신고 안내
+429,연료ㆍ에너지 과소비ㆍ낭비 신고내용 작성법,DialogAdapter,IT1607320474688001,에너지 과소비 신고 안내
+430,기타 생활 신고,DialogAdapter,IT1607320479310001,기타 생활불편 신고 안내
+431,그 밖에 생활 신고,DialogAdapter,IT1607320457270001,기타 안전·환경 위험요인 신고 안내
+432,불법 주차 신고 종류ㆍ유형,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+433,소화전 불법 주차 신고,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+434,소화전 주차 신고,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+435,교차로 변두리 주차 신고,DialogAdapter,IT1607320490320001,교차로 모퉁이 불법주정차 신고 안내
+436,소화전 불법 주차 신고 작성내용,DialogAdapter,IT1607320487634001,소화전 불법주정차 신고 안내
+437,소화전 주차 신고내용 작성법,DOUB API,IT1607320493773001,소화전 불법주정차 신고내용 작성요령
+438,교차로 변두리 주차 신고내용 작성법,DialogAdapter,IT1607320490320001,교차로 모퉁이 불법주정차 신고 안내
+439,버스정류장 불법주차 신고,DialogAdapter,IT1607320500673001,버스정류소 불법주정차 신고 안내
+440,버스정류장 불법주차 신고내용 작성법,DialogAdapter,IT1607320500673001,버스정류소 불법주정차 신고 안내
+441,횡단보도 불법주차ㆍ주차 신고,DialogAdapter,IT1607321097021001,횡단보도 불법주정차 신고 안내
+442,횡단보도 불법주차ㆍ주차 신고내용 작성법,DialogAdapter,IT1607321097021001,횡단보도 불법주정차 신고 안내
+443,어린이구역 주차 신고,DialogAdapter,IT1607321104145001,어린이보호구역 불법주정차 신고 안내
+444,어린이구역 불법주차 신고,DialogAdapter,IT1607321104145001,어린이보호구역 불법주정차 신고 안내
+445,어린이구역 불법주차 신고내용 작성법,DOUB API,IT1607320483954001,불법주정차 신고 유형 안내
+446,장애인용구역 불법주차 신고,DialogAdapter,IT1607321112433001,장애인 전용구역 불법주정차 신고 안내
+447,장애인 주차장 주차,DialogAdapter,IT1607321112433001,장애인 전용구역 불법주정차 신고 안내
+448,장애인용구역 불법주차 신고내용 작성법,DialogAdapter,IT1607321112433001,장애인 전용구역 불법주정차 신고 안내
+449,기타 불법주차 신고,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+450,그밖에 불법주차 신고,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+451,기타 불법주차 신고작성 내용,DialogAdapter,IT1607321117030001,기타 불법주정차 신고 안내
+452,그 밖에 불법주차 신고작성 내용,DialogAdapter,IT1610007279725001,불법 주정차 사진 촬영 어려움
+453,코로나 신고 유형,DialogAdapter,IT1607321122687001,코로나19 신고 유형 안내
+454,코로나 유형별 신고,DialogAdapter,IT1607321122687001,코로나19 신고 유형 안내
+455,집합금지 위반 영업 신고,DialogAdapter,IT1607321124767001,집합금지 조치를 위반한 영업·모임 신고 안내
+456,집합금지 위반 모임,DialogAdapter,IT1607321124767001,집합금지 조치를 위반한 영업·모임 신고 안내
+457,집합금지 위반 영업 신고내용 작성법,DialogAdapter,IT1607321124767001,집합금지 조치를 위반한 영업·모임 신고 안내
+458,자가격리 탈주 신고,DialogAdapter,IT1607321129407001,자가격리 무단이탈 신고 안내
+459,자가격리 이탈 신고,DialogAdapter,IT1607321129407001,자가격리 무단이탈 신고 안내
+460,자가격리 탈주 신고내용 작성법,DialogAdapter,IT1607321129407001,자가격리 무단이탈 신고 안내
+461,자가격리 이탈 신고 작성내용,DialogAdapter,IT1607321129407001,자가격리 무단이탈 신고 안내
+462,밀집 모임 신고,DialogAdapter,IT1607321124767001,집합금지 조치를 위반한 영업·모임 신고 안내
+463,밀폐 공간 모임 신고,FallbackAdapter,IT-FALLBACK,폴백 메시지
+464,밀집 모임 신고 작성내용,FallbackAdapter,IT-FALLBACK,폴백 메시지
+465,밀폐 공간 모임 신고내용 작성법,FallbackAdapter,IT-FALLBACK,폴백 메시지
+466,마스크 착용 거부 신고,DialogAdapter,IT1607322805559001,"출입자 관리 위반, 마스크 미착용 신고 안내"
+467,출입자 관리 거부 신고,DialogAdapter,IT1607322805559001,"출입자 관리 위반, 마스크 미착용 신고 안내"
+468,마스크 착용 거부 신고 작성내용,DialogAdapter,IT1607322805559001,"출입자 관리 위반, 마스크 미착용 신고 안내"
+469,출입자 관리 거부 신고내용 작성법,DialogAdapter,IT1607322805559001,"출입자 관리 위반, 마스크 미착용 신고 안내"
+470,감연 차단 의견 제안ㆍ신고,FallbackAdapter,IT-FALLBACK,폴백 메시지
+471,감연 차단 의견 제안ㆍ신고내용 작성법,FallbackAdapter,IT-FALLBACK,폴백 메시지
+472,자주 일어나는 신고,DialogAdapter,IT1610004713248001,자주하는 신고 문의
+473,자주 하는 신고,DialogAdapter,IT1610004713248001,자주하는 신고 문의
+474,비회원 신고,DialogAdapter,IT-0020,신고 안내
+475,회원에 대해 질문할게 있어,DialogAdapter,IT1610004799773001,회원 문의
+476,회원 문의,DialogAdapter,IT1610004799773001,회원 문의
+477,개인정보,DialogAdapter,IT1610004912593001,개인정보 문의
+478,개인정보에 대해 질문 할게 있어,DialogAdapter,IT1610004912593001,개인정보 문의
+479,코로나 신고 번호,DialogAdapter,IT1610005624660001,코로나 신고 전화번호 문의
+480,코로나 신고할수 있는곳 전화번호 알려줘,DialogAdapter,IT1610005624660001,코로나 신고 전화번호 문의
+481,블랙박스가 신고증거로 충분할까?,DialogAdapter,IT1610006585591001,블랙박스 신고 가능여부 문의
+482,왜 신고가 불수용으로 처리돼?,DialogAdapter,IT-0153,신고 처리 관련 문의
+483,갤러리 사진은 신고가 안돼?,DialogAdapter,IT1610006675435001,일반 갤러리 사진으로 불법주정차 신고
+484,갤러리로 신고하기,DialogAdapter,IT1610006675435001,일반 갤러리 사진으로 불법주정차 신고
+485,신고 유형 선택,DialogAdapter,IT1610006716169001,신고유형 선택 문의
+486,신고 시 알맞은 신고 유형이 없는 경우,DialogAdapter,IT-0020,신고 안내
+487,불법주차 과태료 대상,DialogAdapter,IT-0022,불법주정차 신고 대상
+488,불법주차 과태료,DialogAdapter,IT1610006846835001,불법 주정차 과태료 부과 여부 문의
+489,불법주차 사진찍이 어려운 상황일때,DialogAdapter,IT1610007279725001,불법 주정차 사진 촬영 어려움
+490,신고 수정,DialogAdapter,IT1610007305977001,신고 수정·변경 및 삭제
+491,신고 변경,DialogAdapter,IT1610007305977001,신고 수정·변경 및 삭제
+492,신고 삭제,DialogAdapter,IT-0156,신고 취하
+493,신고 처리 문의ㆍ목록,DialogAdapter,IT1610007459749001,신고 처리 문의
+494,신고 처리 기관 문의,DialogAdapter,IT1610007855287001,신고 처리 기관 문의
+495,신고 기관,DialogAdapter,IT1610007855287001,신고 처리 기관 문의
+496,신고 후 언제쯤 처리가 돼?,DialogAdapter,IT1610008152088001,신고 처리 기간 문의
+497,신고 후 언제쯤 처리가 완료돼?,DialogAdapter,IT1610008152088001,신고 처리 기간 문의
+498,신고 처리시 절차,DialogAdapter,IT1610008160192001,신고 처리 절차 문의
+499,앱 이용 어떻게 해?,DialogAdapter,IT-0179,도움말 요청
+500,앱 이용 방법,DialogAdapter,IT-0179,도움말 요청
+501,GPS 조회 오류,DialogAdapter,IT-0160,GPS 작동 오류
+502,위치추적 조회 오류,DialogAdapter,IT1610008551627001,GPS 조회 오류
+503,음성기능 사용법,DialogAdapter,IT1610008602453001,앱 음성 안내 문의
+504,음성기능,DialogAdapter,IT1610008602453001,앱 음성 안내 문의
+505,핸드폰 음성 기능,DialogAdapter,IT1610008602453001,앱 음성 안내 문의
+506,모바일 음성 기능,DialogAdapter,IT1610008602453001,앱 음성 안내 문의
+507,통합검색,DialogAdapter,IT1610008687957001,통합검색 이용 문의
+508,신문고 검색창,DialogAdapter,IT1610008687957001,통합검색 이용 문의
+509,자동로그인,DialogAdapter,IT1610008901644001,자동로그인 설정
+510,자동로그인 기능 있어?,DialogAdapter,IT1610008901644001,자동로그인 설정
+511,로그인이 계속 유지되는 기능,DialogAdapter,IT1610008901644001,자동로그인 설정
+512,사진 저장 오류,DialogAdapter,IT1610009003065001,앱내 사진 촬영시 사진 저장 오류
+513,사진촬영 저장 오류,DialogAdapter,IT1610009003065001,앱내 사진 촬영시 사진 저장 오류
+514,사진 촬영 오류,DialogAdapter,IT1610009003065001,앱내 사진 촬영시 사진 저장 오류
+515,신고 내용 리셋,DialogAdapter,IT1610010357786001,신고 내용 작성시 리셋
+516,신고 내용 작성중 리셋,DialogAdapter,IT1610010357786001,신고 내용 작성시 리셋
+517,신고 내용 초기화,DialogAdapter,IT1610007305977001,신고 수정·변경 및 삭제
+518,신고 내용 작성중 초기화,DialogAdapter,IT1610010689960001,돋보기 기능 해제
+519,동영상 용량 제한,DialogAdapter,IT1631171040719001,동영상 첨부 용량 제한
+520,신고 사진 용량 제한,DialogAdapter,IT1610010380119001,신고 미디어 첨부 용량 문의
+521,알림 거부,FallbackAdapter,IT-FALLBACK,폴백 메시지
+522,알림 차단,FallbackAdapter,IT-FALLBACK,폴백 메시지
+523,돋보기 기능,DialogAdapter,IT1610010689960001,돋보기 기능 해제
+524,돋보기 해제,DialogAdapter,IT1610010689960001,돋보기 기능 해제
+525,생활불편 신고 조회,DialogAdapter,IT1610011115117001,생활불편신고 앱 신고 조회
+526,신고 사진 선택 안됌,DialogAdapter,IT1610011153358001,신고 사진 선택 불가 문의
+527,신고 사진 선택법,DialogAdapter,IT1610011153358001,신고 사진 선택 불가 문의
+528,신고 사진 선택,DialogAdapter,IT1610011153358001,신고 사진 선택 불가 문의
+529,비번 변경,DialogAdapter,IT1610011339156001,비밀번호 변경 문의
+530,비밀번호 변경,DialogAdapter,IT1610011339156001,비밀번호 변경 문의
+531,앱 멈춤ㆍ정지 오류,FallbackAdapter,IT-FALLBACK,폴백 메시지
+532,갑작스러운 인증번호,FallbackAdapter,IT-FALLBACK,폴백 메시지
+533,요청안한 인증번호,DialogAdapter,IT1610011470185001,요청하지 않은 인증번호 문자 발송
+534,의도치 않은 인증번호,DialogAdapter,IT1610011470185001,요청하지 않은 인증번호 문자 발송
+535,법인 인증,DialogAdapter,IT1610011536258001,법인 휴대폰 인증 문의
+536,법인 휴대전화 인증,DialogAdapter,IT1610011536258001,법인 휴대폰 인증 문의
+537,재가입,DialogAdapter,IT1610011542040001,재가입 문의
+538,회원 재가입,DialogAdapter,IT1610011542040001,재가입 문의
+539,안전보안관ㆍ안전모니터봉사단 회원정보 수정,DialogAdapter,IT1610011674292001,안전보안관 회원정보수정
+540,마일리지 포상,DialogAdapter,IT1610011710928001,마일리지 및 포상제도 문의
+541,마일리지에 대해 알려줘,DialogAdapter,IT1610011710928001,마일리지 및 포상제도 문의
+542,포상 제도,DialogAdapter,IT1610011710928001,마일리지 및 포상제도 문의
+543,개인정보 유출,DialogAdapter,IT1610012057581001,개인정보유출 확인
+544,유출된 개인정보,DialogAdapter,IT1610012057581001,개인정보유출 확인
+545,익명성 보장,DialogAdapter,IT1610012062520001,익명보장 확인
+546,신고할때 익명성 보장이 돼?,DOUB API,IT1610012062520001,익명보장 확인
+547,개인정보 수집,DialogAdapter,IT1610012102532001,개인정보수집동의
+548,수집이 필요한 개인정보,DialogAdapter,IT1610012102532001,개인정보수집동의
+549,전화번호를 변경했는데 회원정보가 조회가 안돼,DOUB API,IT-0221,안신앱 운영센터 전화 연결
+550,FAQ,DialogAdapter,IT1610012191677001,자주하는질문
+551,자주하는 질문,DialogAdapter,IT1610012191677001,자주하는질문
+552,이의제기,DialogAdapter,IT1610415079894001,이의제기 문의
+553,이의제기 하고싶어,DialogAdapter,IT1610415079894001,이의제기 문의
+554,코로나 증상자 주의사항,DialogAdapter,IT1615447411189001,코로나 유증상자 유의사항
+555,긴급!,DialogAdapter,IT1620290343011001,긴급 신고
+556,긴급신고,DialogAdapter,IT1620290343011001,긴급 신고
+557,비 긴급신고,DialogAdapter,IT1620290343011001,긴급 신고
+558,너 마음에 안들어,DialogAdapter,IT1620799745019001,응답 불만족
+559,답변이 불만족,DialogAdapter,IT-0154,신고 처리 결과 불만족
+560,앱 실행,DialogAdapter,IT1624933997476001,앱 실행
+561,애플리케이션 실행,DialogAdapter,IT1624933997476001,앱 실행
+562,사진 간격 기준,DialogAdapter,IT1631086105335001,불법 주정차 신고 사진 1분 간격
+563,불법 주차 신고 사진 간격,DialogAdapter,IT1631086105335001,불법 주정차 신고 사진 1분 간격
+564,불법 주자 신고 문의,DialogAdapter,IT1607321117030001,기타 불법주정차 신고 안내
+565,불법 주차 신고,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+566,불법 주정차 신고 유형,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+567,불법 주차 동영상 첨부 불가능,DialogAdapter,IT1631089353992001,불법 주정차 신고 동영상 첨부 불가능
+568,불법주차 신고 기한,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+569,불법주차 신고 언제까지 해야돼?,DialogAdapter,IT-0022,불법주정차 신고 대상
+570,장애인구역 불법주차 신고 사진촬영,DialogAdapter,IT1607321112433001,장애인 전용구역 불법주정차 신고 안내
+571,카메라 강제종료,DialogAdapter,IT1631090098846001,카메라 실행 후 20초 경과 시 종료 이유
+572,갑자기 꺼진 카메라,DialogAdapter,IT1631090098846001,카메라 실행 후 20초 경과 시 종료 이유
+573,중간에 꺼지는 카메라,DialogAdapter,IT1631090098846001,카메라 실행 후 20초 경과 시 종료 이유
+574,퀵메뉴 설정,DialogAdapter,IT1631167692505001,퀵메뉴 기능 안내
+575,퀵메뉴에 대해 알려줘,DialogAdapter,IT1631167692505001,퀵메뉴 기능 안내
+576,편의성 메뉴,DialogAdapter,IT1631167692505001,퀵메뉴 기능 안내
+577,연속 촬영 기능,DialogAdapter,IT1631169555952001,앱으로 사진 촬영 시 연속 촬영
+578,연속촬영,DialogAdapter,IT1631169555952001,앱으로 사진 촬영 시 연속 촬영
+579,연속촬영 하는법,DialogAdapter,IT1631169555952001,앱으로 사진 촬영 시 연속 촬영
+580,화질 저하,DialogAdapter,IT1631170679798001,앱으로 사진 촬영시 화질 저하
+581,촬영시 화질,DialogAdapter,IT1631170679798001,앱으로 사진 촬영시 화질 저하
+582,사진 화질 높이는 법,DialogAdapter,IT1631170679798001,앱으로 사진 촬영시 화질 저하

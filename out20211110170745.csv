@@ -1,0 +1,10 @@
+﻿,사용자발화,엔진결과_module,엔진결과_intent_id,엔진결과_intent_title
+0,신고 어떻게 해?,DialogAdapter,IT-0020,신고 안내
+1,상담시작,DialogAdapter,IT-0017,챗봇상담시작
+2,상담하자,DialogAdapter,IT-0017,챗봇상담시작
+3,반가워!!,DialogAdapter,IT-0018,환영인사
+4,잘가.,DialogAdapter,IT-0019,종료인사
+5,신고 하는 방법,DialogAdapter,IT1620715040970001,비긴급 신고
+6,신고하는법,DialogAdapter,IT-0020,신고 안내
+7,주차위반 신고,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
+8,주차위반,DialogAdapter,IT1607320483954001,불법주정차 신고 유형 안내
